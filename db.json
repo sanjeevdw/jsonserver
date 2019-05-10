@@ -13,4 +13,9 @@
       "status": "success",
       "message": "Data has been received"
     }
+  "sendLocationDriver":
+  {
+      "status": "success",
+      "message": "Data has been received"
+    }
   }
