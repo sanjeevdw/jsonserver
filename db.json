@@ -16,7 +16,7 @@
 "sendLocationFree":
 {
       "status": "success",
-      "message": "Trip Found"
+      "message": "Trip Found",
       "pickup_location": "A-160 Indra Vihar Colony, Airport Road Bhopal",
       "drop_location": "B-124 Ashoka Garden, Bhopal",
 	"pickup_location_longitute": "B-124 Ashoka Garden, Bhopal",
