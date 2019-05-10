@@ -43,6 +43,6 @@
 {
       "response_status": "success",
       "message": "OTP verified",
-      "driver_id": "1",
+      "driver_id": "1"
     }
   }
