@@ -29,11 +29,5 @@
 	"drop_location_longitute": "23.2510111",
 	"drop_location_latitute": "77.5027476",
 	"phone": "7566573855"
-},
-"verifyOtp":
-{
-      "response_status": "success",
-      "message": "OTP verified",
-      "driver_id": "1"
-    }
+}
   }
