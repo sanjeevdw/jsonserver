@@ -1,13 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
+  
   "currentLocationOnTrip":
     {
       "status": "success",
@@ -38,5 +30,11 @@
 	"drop_location_longitute": "23.2510111",
 	"drop_location_latitute": "77.5027476",
 	"phone": "7566573855"
-}
+},
+	"verifyOtp":
+{
+      "response_status": "success",
+      "message": "OTP varified",
+      "driver_id": "1"
+    }
   }
